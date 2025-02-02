@@ -23,7 +23,7 @@ Block Breaking Game is a classic block-breaking game implemented in Python with 
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/jhonda/block-breaking-game.git
+   git clone https://github.com/jpierre-le/block-breaking-game.git
 Navigate to the Project Directory:
 
 bash
