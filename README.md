@@ -43,7 +43,7 @@ Make sure that hit.mp3 and fanfare.mp3 are located in the same directory as the 
 2. **Run the Game:**
 
    ```bash
-   python main.py
+   python block-breaking-game.py
 
 3. **Gameplay:**
 
