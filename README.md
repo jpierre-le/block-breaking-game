@@ -24,36 +24,41 @@ Block Breaking Game is a classic block-breaking game implemented in Python with 
 
    ```bash
    git clone https://github.com/jpierre-le/block-breaking-game.git
-Navigate to the Project Directory:
 
-  ```bash
-cd block-breaking-game
-Install Dependencies:
+2. **Navigate to the Project Directory:
 
-bash
-pip install pygame
-Usage
-Place Sound Files:
+   ```bash
+   cd block-breaking-game
+
+3. **Install Dependencies:
+
+   ```bash
+   pip install pygame
+
+## Usage
+1. **Place Sound Files:
 
 Make sure that hit.mp3 and fanfare.mp3 are located in the same directory as the game source code. If you use different files or paths, update the code accordingly.
 
-Run the Game:
+2. **Run the Game:
 
-bash
-python main.py
-Gameplay:
+   ```bash
+   python main.py
 
-On the start screen, click the "Start" button at the center to begin the game.
-Use the left and right arrow keys to move the paddle.
-Bounce the ball to break the 12 blocks.
-When all blocks are broken, a celebratory confetti animation and fanfare will play.
-If the ball falls below the paddle, the game is over and returns to the start screen.
-Contributing
+3. **Gameplay:
+
+- On the start screen, click the "Start" button at the center to begin the game.
+- Use the left and right arrow keys to move the paddle.
+- Bounce the ball to break the 12 blocks.
+- When all blocks are broken, a celebratory confetti animation and fanfare will play.
+- If the ball falls below the paddle, the game is over and returns to the start screen.
+
+## Contributing
 Contributions are welcome! Please feel free to submit issues or pull requests to improve the game.
 
-License
+## License
 This project is licensed under the MIT License.
 
-Acknowledgements
+## Acknowledgements
 Developed with Pygame
 Inspired by classic block-breaking games.
