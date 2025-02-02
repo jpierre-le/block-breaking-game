@@ -25,27 +25,27 @@ Block Breaking Game is a classic block-breaking game implemented in Python with 
    ```bash
    git clone https://github.com/jpierre-le/block-breaking-game.git
 
-2. **Navigate to the Project Directory:
+2. **Navigate to the Project Directory:**
 
    ```bash
    cd block-breaking-game
 
-3. **Install Dependencies:
+3. **Install Dependencies:**
 
    ```bash
    pip install pygame
 
 ## Usage
-1. **Place Sound Files:
+1. **Place Sound Files:**
 
 Make sure that hit.mp3 and fanfare.mp3 are located in the same directory as the game source code. If you use different files or paths, update the code accordingly.
 
-2. **Run the Game:
+2. **Run the Game:**
 
    ```bash
    python main.py
 
-3. **Gameplay:
+3. **Gameplay:**
 
 - On the start screen, click the "Start" button at the center to begin the game.
 - Use the left and right arrow keys to move the paddle.
