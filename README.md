@@ -26,7 +26,7 @@ Block Breaking Game is a classic block-breaking game implemented in Python with 
    git clone https://github.com/jpierre-le/block-breaking-game.git
 Navigate to the Project Directory:
 
-bash
+  ```bash
 cd block-breaking-game
 Install Dependencies:
 
